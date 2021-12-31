@@ -1,0 +1,374 @@
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.ResolveComReference.cache
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_BaoCao.resources
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_BoTriCoc.resources
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Resources.resources
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.GenerateResource.cache
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.exe.licenses
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.CoreCompileInputs.cache
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.exe.config
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.exe
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.pdb
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.v20.1.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Utils.v20.1.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraBars.v20.1.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\Guna.UI.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\Guna.UI2.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.v20.1.xml
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Utils.v20.1.xml
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraBars.v20.1.xml
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\Interop.VDProLib5.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\AxInterop.VDProLib5.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\Interop.VDProLib5.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\AxInterop.VDProLib5.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.CopyComplete
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.exe
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.pdb
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.GiaodienChuongTrinh.resources
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtindiachat.resources
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtincoc.resources
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtindai.resources
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtinnoiluc.resources
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtinvatlieu.resources
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\Bunifu_UI_v1.5.3.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevComponents.DotNetBar2.dll
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevComponents.DotNetBar2.xml
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_TinhThep.resources
+S:\DoANTOtNghiep2021\12.Trần Công Hậu\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.AssemblyReference.cache
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.exe.config
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.exe
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.pdb
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\Bunifu_UI_v1.5.3.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevComponents.DotNetBar2.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.v20.1.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Utils.v20.1.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraBars.v20.1.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\Guna.UI.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\Guna.UI2.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevComponents.DotNetBar2.xml
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.v20.1.xml
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Utils.v20.1.xml
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraBars.v20.1.xml
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\Interop.VDProLib5.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\bin\Debug\AxInterop.VDProLib5.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.AssemblyReference.cache
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\Interop.VDProLib5.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\AxInterop.VDProLib5.dll
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.ResolveComReference.cache
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_Banve.resources
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.GiaodienChuongTrinh.resources
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_BaoCao.resources
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_BoTriCoc.resources
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtindiachat.resources
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtincoc.resources
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtindai.resources
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtinnoiluc.resources
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtinvatlieu.resources
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_TinhThep.resources
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Resources.resources
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.GenerateResource.cache
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.exe.licenses
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.CoreCompileInputs.cache
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.CopyComplete
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.exe
+S:\DoANTOtNghiep2021\TranCongHau\Version1\TranCongHau_59TH2_422359\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.pdb
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.exe.config
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.exe
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.pdb
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.v20.1.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevComponents.DotNetBar2.xml
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.v20.1.xml
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\Interop.VDProLib5.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\AxInterop.VDProLib5.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.AssemblyReference.cache
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\Interop.VDProLib5.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\AxInterop.VDProLib5.dll
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.ResolveComReference.cache
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_Banve.resources
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.GiaodienChuongTrinh.resources
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_BaoCao.resources
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_BoTriCoc.resources
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtindiachat.resources
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtincoc.resources
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtindai.resources
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtinnoiluc.resources
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtinvatlieu.resources
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_TinhThep.resources
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Resources.resources
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.GenerateResource.cache
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.exe.licenses
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.CoreCompileInputs.cache
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.CopyComplete
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.exe
+D:\DATN_TIN\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.pdb
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.exe.config
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.exe
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.pdb
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\Bunifu_UI_v1.5.3.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevComponents.DotNetBar2.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.v20.1.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Utils.v20.1.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraBars.v20.1.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\Guna.UI.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\Guna.UI2.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevComponents.DotNetBar2.xml
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.v20.1.xml
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Utils.v20.1.xml
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraBars.v20.1.xml
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\Interop.VDProLib5.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\AxInterop.VDProLib5.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.AssemblyReference.cache
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\Interop.VDProLib5.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\AxInterop.VDProLib5.dll
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.ResolveComReference.cache
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_Banve.resources
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.GiaodienChuongTrinh.resources
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_BaoCao.resources
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_BoTriCoc.resources
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtindiachat.resources
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtincoc.resources
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtindai.resources
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtinnoiluc.resources
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtinvatlieu.resources
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_TinhThep.resources
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Resources.resources
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.GenerateResource.cache
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.exe.licenses
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.CoreCompileInputs.cache
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.CopyComplete
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.exe
+S:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.pdb
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.exe.config
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.exe
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\TranCongHau_59TH2_422359.pdb
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevComponents.DotNetBar2.xml
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.v20.1.xml
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Utils.v20.1.xml
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraBars.v20.1.xml
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\Interop.VDProLib5.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\bin\Debug\AxInterop.VDProLib5.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.AssemblyReference.cache
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.SuggestedBindingRedirects.cache
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\Interop.VDProLib5.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\AxInterop.VDProLib5.dll
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.ResolveComReference.cache
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_Banve.resources
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.GiaodienChuongTrinh.resources
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_BaoCao.resources
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Frm_BoTriCoc.resources
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtindiachat.resources
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtincoc.resources
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtindai.resources
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtinnoiluc.resources
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_thongtinvatlieu.resources
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.frm_TinhThep.resources
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.Resources.resources
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.GenerateResource.cache
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.exe.licenses
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.CoreCompileInputs.cache
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.vbproj.CopyComplete
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.exe
+G:\DoANTOtNghiep2021\TranCongHau\BanHoanthien\TranCongHau_28_08_2021\TranCongHau_59TH2_422359\obj\Debug\TranCongHau_59TH2_422359.pdb

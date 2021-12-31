@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7880C584-5FDF-4815-A927-D7594C7A7C6E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ChanputhearaKung</RootNamespace>
+    <AssemblyName>ChanputhearaKung</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <StartupObject>ChanputhearaKung.Program</StartupObject>
+    <FileAlignment>512</FileAlignment>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ChanputhearaKung.My.MyApplication</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>C:\Users\lamth\OneDrive\Documents\DATN\ApplicationCotLechTamPhang\template\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.18, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.BonusSkins.v20.1" />
+    <Reference Include="DevExpress.Data.v20.1" />
+    <Reference Include="DevExpress.Printing.v20.1.Core" />
+    <Reference Include="DevExpress.Data.Desktop.v20.1" />
+    <Reference Include="DevExpress.Utils.v20.1" />
+    <Reference Include="DevExpress.XtraBars.v20.1" />
+    <Reference Include="DevExpress.Sparkline.v20.1.Core" />
+    <Reference Include="DevExpress.XtraEditors.v20.1" />
+    <Reference Include="Guna.UI">
+      <HintPath>C:\Users\lamth\OneDrive\Documents\DATN\ApplicationCotLechTamPhang\template\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>C:\Users\lamth\OneDrive\Documents\DATN\ApplicationCotLechTamPhang\template\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Frm_Banve.Designer.vb">
+      <DependentUpon>Frm_Banve.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Banve.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_TinhThep.Designer.vb">
+      <DependentUpon>frm_TinhThep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_TinhThep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_GiaodienchuongTrinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_GiaodienchuongTrinh.Designer.vb">
+      <DependentUpon>frm_GiaodienchuongTrinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_thongtindiachat.Designer.vb">
+      <DependentUpon>frm_thongtindiachat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_thongtindiachat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_thongtincoc.Designer.vb">
+      <DependentUpon>frm_thongtincoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_thongtincoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_thongtindai.Designer.vb">
+      <DependentUpon>frm_thongtindai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_thongtindai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_thongtinnoiluc.Designer.vb">
+      <DependentUpon>frm_thongtinnoiluc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_thongtinnoiluc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_thongtinvatlieu.Designer.vb">
+      <DependentUpon>frm_thongtinvatlieu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_thongtinvatlieu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <EmbeddedResource Include="Frm_Banve.resx">
+      <DependentUpon>Frm_Banve.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_GiaodienchuongTrinh.resx">
+      <DependentUpon>frm_GiaodienchuongTrinh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_thongtindiachat.resx">
+      <DependentUpon>frm_thongtindiachat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_thongtincoc.resx">
+      <DependentUpon>frm_thongtincoc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_thongtindai.resx">
+      <DependentUpon>frm_thongtindai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_thongtinnoiluc.resx">
+      <DependentUpon>frm_thongtinnoiluc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_thongtinvatlieu.resx">
+      <DependentUpon>frm_thongtinvatlieu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_TinhThep.resx">
+      <DependentUpon>frm_TinhThep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="image\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxVDProLib5">
+      <Guid>{68C2910D-885A-4B9D-BA07-ABFE0563A8E9}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VDProLib5">
+      <Guid>{68C2910D-885A-4B9D-BA07-ABFE0563A8E9}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geography_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gift_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secured_letter_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sparkling_diamond_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thumbnails_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\website_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\winter_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\experiment_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\input_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\command_line_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_input_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_input_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_design_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_opacity_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_microsoft_word_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_diamond_care_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_microsoft_excel_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_ok_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_protection_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vivaldi_web_browser_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\downward_arrow_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gdpr_database_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_database_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\daimong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 8%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 91.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TCH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cothep.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 101.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A360-Viewer-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A360-Viewer-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12-121390_new-microsoft-word-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AnhNen.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
