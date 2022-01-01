@@ -44,10 +44,10 @@
     <StartupObject>ChanputhearaKung.My.MyApplication</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Bunifu_UI_v1.5.3">
-      <HintPath>C:\Users\lamth\OneDrive\Documents\DATN\ApplicationCotLechTamPhang\template\Bunifu_UI_v1.5.3.dll</HintPath>
+    <Reference Include="Bunifu_UI_v1.5.3, Version=1.5.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\template\Bunifu_UI_v1.5.3.dll</HintPath>
     </Reference>
-    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.18, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.BonusSkins.v20.1" />
     <Reference Include="DevExpress.Data.v20.1" />
     <Reference Include="DevExpress.Printing.v20.1.Core" />
@@ -56,11 +56,13 @@
     <Reference Include="DevExpress.XtraBars.v20.1" />
     <Reference Include="DevExpress.Sparkline.v20.1.Core" />
     <Reference Include="DevExpress.XtraEditors.v20.1" />
-    <Reference Include="Guna.UI">
-      <HintPath>C:\Users\lamth\OneDrive\Documents\DATN\ApplicationCotLechTamPhang\template\Guna.UI.dll</HintPath>
+    <Reference Include="Guna.UI, Version=1.9.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\template\Guna.UI.dll</HintPath>
     </Reference>
-    <Reference Include="Guna.UI2">
-      <HintPath>C:\Users\lamth\OneDrive\Documents\DATN\ApplicationCotLechTamPhang\template\Guna.UI2.dll</HintPath>
+    <Reference Include="Guna.UI2, Version=2.0.0.4, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\template\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
